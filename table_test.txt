@@ -1,0 +1,6 @@
+table1
+first_column|second_column|third_column|
+------------+-------------+------------+
+456         |23           |9           |
+123456      |NULL         |17          |
+1           |NULL         |NULL        |

@@ -1,0 +1,6 @@
+table2
+first_column(INT)|second_column(DOUBLE)|third_column(STRING)|
+-----------------+---------------------+--------------------+
+456              |123456.2             |"alabala"           |
+23               |17.025               |NULL                |
+9                |NULL                 |NULL                |

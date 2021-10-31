@@ -1,0 +1,6 @@
+table1_new
+first_column(INT)|second_column(INT)|third_column(INT)|forth_column(BOOLEAN)|
+-----------------+------------------+-----------------+---------------------+
+456              |23                |9                |true                 |
+123456           |NULL              |17               |false                |
+1                |NULL              |NULL             |true                 |
