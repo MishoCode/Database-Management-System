@@ -4,6 +4,8 @@
 
 int main() {
 
+	//This is a test!
+	//std::cout << "Hello world!" << std::endl;
 	System database;
 	CommandLineRunner::run(database);
 
